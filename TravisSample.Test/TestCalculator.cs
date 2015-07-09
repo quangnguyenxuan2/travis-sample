@@ -29,7 +29,7 @@ namespace TravisSample.Test
 
         [TestCase(10, 2, 8)]
         [TestCase(11, 4, 7)]
-        [TestCase(13, 2, 10)]
+        [TestCase(13, 2, 11)]
         [TestCase(12, 7, 5)]
         public void TestSubtract(int a, int b, int sub)
         {
